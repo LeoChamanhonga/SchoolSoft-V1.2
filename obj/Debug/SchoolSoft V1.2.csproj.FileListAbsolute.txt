@@ -1,0 +1,13 @@
+C:\Users\Keyfortech\source\repos\SchoolSoft V1.2\SchoolSoft V1.2\bin\Debug\SchoolSoft V1.2.exe.config
+C:\Users\Keyfortech\source\repos\SchoolSoft V1.2\SchoolSoft V1.2\bin\Debug\SchoolSoft V1.2.exe
+C:\Users\Keyfortech\source\repos\SchoolSoft V1.2\SchoolSoft V1.2\bin\Debug\SchoolSoft V1.2.pdb
+C:\Users\Keyfortech\source\repos\SchoolSoft V1.2\SchoolSoft V1.2\obj\Debug\SchoolSoft V1.2.csprojAssemblyReference.cache
+C:\Users\Keyfortech\source\repos\SchoolSoft V1.2\SchoolSoft V1.2\obj\Debug\SchoolSoft_V1._2.MenuPrincipal.resources
+C:\Users\Keyfortech\source\repos\SchoolSoft V1.2\SchoolSoft V1.2\obj\Debug\SchoolSoft_V1._2.Properties.Resources.resources
+C:\Users\Keyfortech\source\repos\SchoolSoft V1.2\SchoolSoft V1.2\obj\Debug\SchoolSoft V1.2.csproj.GenerateResource.cache
+C:\Users\Keyfortech\source\repos\SchoolSoft V1.2\SchoolSoft V1.2\obj\Debug\SchoolSoft V1.2.csproj.CoreCompileInputs.cache
+C:\Users\Keyfortech\source\repos\SchoolSoft V1.2\SchoolSoft V1.2\obj\Debug\SchoolSoft V1.2.exe
+C:\Users\Keyfortech\source\repos\SchoolSoft V1.2\SchoolSoft V1.2\obj\Debug\SchoolSoft V1.2.pdb
+C:\Users\Keyfortech\source\repos\SchoolSoft V1.2\SchoolSoft V1.2\obj\Debug\SchoolSoft_V1._2.Estudante.resources
+C:\Users\Keyfortech\source\repos\SchoolSoft V1.2\SchoolSoft V1.2\obj\Debug\SchoolSoft_V1._2.AcessoCliente.resources
+C:\Users\Keyfortech\source\repos\SchoolSoft V1.2\SchoolSoft V1.2\obj\Debug\SchoolSoft_V1._2.TesteUnidade.resources
